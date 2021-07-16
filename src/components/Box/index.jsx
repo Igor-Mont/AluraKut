@@ -5,6 +5,28 @@ const Box = styled.div`
   border-radius: 8px;
   padding: 16px;
   margin-bottom: 10px;
+
+  p {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    div {
+      background: #308bc5;
+      border-radius: 8px;
+      width: 20px;
+      height: 20px;
+      display: none;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+
   .boxLink {
     font-size: 14px;
     color: #2E7BB4;
