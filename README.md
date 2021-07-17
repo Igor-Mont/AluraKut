@@ -20,6 +20,15 @@
 <h4 align="center">➡️<a href="https://alurakut-zeta-pearl.vercel.app/"> Clique aqui para ir até o site. </a>⬅️</h4>
 <hr/>
 
+<div align="center">
+<img src="https://img.shields.io/badge/npm-7.19.1-green" />
+<img src="https://img.shields.io/badge/node-14.17.1-green" />
+<img src="https://img.shields.io/badge/react-17.0.2-9cf" />
+<img src="https://img.shields.io/badge/styledComponents-5.2.3-9cf" />
+<img src="https://img.shields.io/badge/next-latest-blueviolet" />
+<img src="https://img.shields.io/badge/DATO-CMS-blueviolet" />
+</div>
+
 <h2> Tecnologias 🎬 </h2>
 
 <ul>
