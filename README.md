@@ -13,38 +13,6 @@
 </div>
 <hr/>
 
-<style>
-  h4 a {
-    color: #D81D99;
-    font-size: 16px
-  }
-  h4 a:hover {
-    color: #D81D99
-  }
-  li a {
-    background: linear-gradient(to right, #D81D99, #5C9ECF);
-    -webkit-background-clip: text;
-    color: transparent;
-    font-size: 20px;
-    animation: gradient 2s;
-  }
-
-  li a:hover {
-    background: linear-gradient(to right, #5C9ECF, #D81D99);
-    -webkit-background-clip: text;
-    color: transparent;
-  }
-
-  h3 a {
-    color: #5C9ECF;
-    font-weight: bold;
-  }
-  h3 {
-    font-size: 22px;
-  }
-
-</style>
-
 <h2 align="center" >Um projeto nostálgico por aqui...😍 </h2>
 <h3 align="center">Você provavelmente conhece o Orkut, então... na imersão React da Alura resolveram resgatar essa memória para relembrarmos os bons momentos 🌎</h3>
 <hr />
