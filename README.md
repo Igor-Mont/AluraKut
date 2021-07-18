@@ -33,7 +33,15 @@
 <h2> 🛠 Features</h2>
 
 <p>Alguns dos recursos dessa aplicação:</p>
-- [ ] Teste
+
+-   [ ] Login com GtHub;
+-   [ ] Rotas com NextJS;
+-   [ ] Modelo responsivo;
+-   [ ] Obter seguidores do github;
+-   [ ] Criar comunidades colocando URL;
+-   [ ] Salvar token JWT de autenticação com cookies;
+-   [ ] Uso de BFF (BackEnd For Front) para salvar comunidades do DATO CMS;
+
 
 
 <h2> 📬 Pré requisitos</h2>
