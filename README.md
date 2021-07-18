@@ -7,7 +7,7 @@
 <h3 align="center">Você provavelmente conhece o Orkut, então... na imersão React da Alura resolveram resgatar essa memória para relembrarmos os bons momentos 🌎</h3>
 <hr />
 
-<h4 align="center">➡️<a href="https://alurakut-zeta-pearl.vercel.app/"> Clique aqui para ir até o site. </a>⬅️</h4>
+<h4 align="center">➡️<a target="_blank" href="https://alurakut-zeta-pearl.vercel.app/"> Clique aqui para ir até o site. </a>⬅️</h4>
 <hr/>
 
 <div align="center">
@@ -23,10 +23,10 @@
 <h2> Tecnologias 🎬 </h2>
 
 <ul>
-  <li><a href="https://reactjs.org/" >React</a> - Código base do projeto.</li>
-  <li><a href="https://nextjs.org/" >Next</a> - Criação do ambiente e...</li>
-  <li><a href="https://styled-components.com/" >Styled-components</a> - Masterizar a componetização e estilização no projeto</li>
-  <li><a href="https://www.datocms.com/" >Dato CMS</a> - Gerir o conteúdo da aplicação</li>
+  <li><a target="_blank" href="https://reactjs.org/" >React</a> - Código base do projeto.</li>
+  <li><a target="_blank" href="https://nextjs.org/" >Next</a> - Criação do ambiente e...</li>
+  <li><a target="_blank" href="https://styled-components.com/" >Styled-components</a> - Masterizar a componetização e estilização no projeto</li>
+  <li><a target="_blank" href="https://www.datocms.com/" >Dato CMS</a> - Gerir o conteúdo da aplicação</li>
 </ul>
 <hr/>
 
@@ -35,6 +35,32 @@
 <p>Alguns dos recursos dessa aplicação:</p>
 ......
 
+
+<h2>Pré requisitos 📬</h2>
+
+Ferramentas necessárias para rodar o projeto na sua máquina:
+[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+<h3>🚩 Rodando o projeto:</h3>
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/Igor-Mont/AluraKut>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd AluraKut
+
+# Instale as dependências usando npm ou yarn
+$ npm install
+$ yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+$ yarn dev
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
 
 <h3>Deploy feito na <a href="https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example">Vercel</a> 🖤</h3>
 <h3>Layout do projeto no <a href="https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A1484">Figma</a> 🤍</h3>
