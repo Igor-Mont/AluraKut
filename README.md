@@ -33,7 +33,7 @@
 <h2> 🛠 Features</h2>
 
 <p>Alguns dos recursos dessa aplicação:</p>
-- [] Teste
+- [ ] Teste
 
 
 <h2> 📬 Pré requisitos</h2>
