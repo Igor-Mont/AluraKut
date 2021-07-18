@@ -20,7 +20,7 @@
 </div>
 <hr/>
 
-<h2> Tecnologias 🎬 </h2>
+<h2> 🎬 Tecnologias</h2>
 
 <ul>
   <li><a target="_blank" href="https://reactjs.org/" >React</a> - Código base do projeto.</li>
@@ -30,23 +30,23 @@
 </ul>
 <hr/>
 
-<h2> Features 🛠 </h2>
+<h2> 🛠 Features</h2>
 
 <p>Alguns dos recursos dessa aplicação:</p>
-......
+- [] Teste
 
 
-<h2>Pré requisitos 📬</h2>
+<h2> 📬 Pré requisitos</h2>
 
 Ferramentas necessárias para rodar o projeto na sua máquina:
 [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-<h3>🚩 Rodando o projeto:</h3>
+<h3> 🚩 Rodando o projeto:</h3>
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Igor-Mont/AluraKut>
+$ git clone https://github.com/Igor-Mont/AluraKut
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd AluraKut
@@ -59,7 +59,7 @@ $ yarn add
 $ npm run dev
 $ yarn dev
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 ```
 
 <h3>Deploy feito na <a href="https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example">Vercel</a> 🖤</h3>
